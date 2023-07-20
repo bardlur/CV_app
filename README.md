@@ -1,6 +1,6 @@
-# cv_application
+# Flutter: Porfolio app
 
 A new simple portfolio project with Flutter.
 
-## Getting Started
+## Screenshot :
 
